@@ -1,4 +1,4 @@
-# Road to CFA-  
+# Road to CFA
 *My learning journey towards the CFA curriculum*  
 
 ## 🎯 Objective  
